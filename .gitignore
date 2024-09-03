@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Flask and SQLite files
+instance/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Pytest cache
+.cache
+
+# Flask specific
+env/
+venv/
+ENV/
+venv.bak/
+env.bak/
+env/
+
+# Static files
+static/uploads/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Backup files
+*.bak
+*.swp
+
+# Logs and databases
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+
+# Environment variables
+.env
